@@ -8,7 +8,7 @@
     "moment": "^2.20.1",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
-    "react-scripts": "3.4.2",
+
     "snyk": "^1.437.3"
   },
   "scripts": {
